@@ -34,4 +34,7 @@ Many people struggle to name feelings or notice patterns. Moodly Health turns sm
 - Auth: JWT session tokens
 - Hosting: Vercel for frontend, Render or Railway for backend, Neon or Supabase for Postgres
 
-## Screenshots or mockups
+# Mockups
+Here’s a preview of the Moodly Health app interface.
+
+![Moodly Health Mockup](https://drive.google.com/uc?export=view&id=1eGn5woFZ_dv81ABUOM1PV2FgZtKx8Xsc)
