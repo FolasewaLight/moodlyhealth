@@ -25,8 +25,8 @@ Moodly Health is a simple web application that lets users log moods, see pattern
 ## High level architecture
 ```mermaid
 flowchart LR
-  U[User] -->|HTTPS| FE[Next.js Web App]
-  FE -->|REST JSON| API[Express API]
+  U[User] --> FE[Next.js Web App]
+  FE --> API[Express API]
   API --> DB[(PostgreSQL Database)]
 
 sequenceDiagram
